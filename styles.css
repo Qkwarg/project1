@@ -1,0 +1,174 @@
+/*************** FONTS ***************/
+/*************** CONTAINER ***************/
+/*************** CLASSES ***************/
+/*************** IDs ***************/
+/*************** TAGS***************/
+
+.profile-pic {
+    max-width: 150px;
+    border-radius: 100%;
+    margin-top: 50px;
+}
+
+.profile {
+    max-width: 20rem;
+    margin: 0 auto;
+    line-height: 2;
+    margin-bottom: 2rem;
+}
+
+.hl {
+    border-bottom: 5px dotted;
+    max-width: 2rem;
+    margin: 50px auto;
+    color: rgba(128, 128, 128, 0.542);
+}
+
+.btn {
+    text-decoration: none;
+    background-image: linear-gradient(#11cdd4, #11999e);
+    color: white;
+    padding: 5px 10px;
+    border-radius: 10px;
+    
+}
+.btn:hover {
+    background-image: none;
+    background-color: lightblue;
+}
+
+.contact-me {
+    margin: 80px 0;
+    line-height: 2;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+body {
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+}
+
+
+h1 {
+    font-family: 'Sacramento', serif;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    line-height: 2rem;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Merriweather', serif;
+    color: #11999E;
+}
+
+p {
+    font-size: 14px;
+}
+
+a {
+    color: #11999E;
+}
+
+
+
+.top-container {
+   
+    background-color:#EAF6F6;
+    padding-top: 100px;
+    
+    
+}
+
+.link-container {
+
+    width: 500px;
+    margin: 0 auto;
+}
+
+.link-container a {
+    text-decoration: none;
+    margin: 0 20px;
+}
+.link-container a:hover {
+    color: blue;
+}
+
+.topcloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottomcloud {
+    position: absolute;
+}
+
+
+
+.bottom-container {
+    background-color: #66bfbf;
+    padding: 30px 0;
+    color: white;
+    font-size: 14px;
+
+}
+
+.bottom-container p {
+    font-size: 10px;
+    margin: 30px 0;
+
+}
+
+.contact-me p {
+    margin-bottom: 30px;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.header1 {
+    background-color: none;
+    width: 30%;
+    margin: 0 auto;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 75px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.img-align-chili {
+    width: 25%;
+    border-radius: 100%;
+    float: left;
+    margin-right: 30px;
+}
+
+.img-align-pc {
+    width: 25%;
+    border-radius: 100%;
+    float: right;
+    margin-left: 30px;
+}
+
+/* .descl {
+    padding-top: 20px;
+    clear: left;
+}
+
+.descr {
+    clear: right;
+    padding-top: 20px;
+} */
